@@ -1,6 +1,6 @@
 # AnyOne
 
-`AnyOne` is a meta skill for Codex: it helps an agent distill any public person or persona into a reusable skill.
+`AnyOne` is a meta skill for distilling AnyOne you want: it helps an agent distill any public person or persona into a reusable skill.
 
 The goal is not raw imitation. The goal is transfer:
 
