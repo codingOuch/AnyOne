@@ -1,0 +1,4 @@
+interface:
+  display_name: "Steve Jobs"
+  short_description: "Distilled product and communication method"
+  default_prompt: "Use $steve-jobs to shape product thinking and presentation with this distilled Steve Jobs method."

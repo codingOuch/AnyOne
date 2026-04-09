@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ali Khamenei"
+  short_description: "Distilled rhetoric from public Khamenei speeches"
+  default_prompt: "Use $ali-khamenei to analyze or structure public-address framing using this distilled speech pattern."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Donald Trump"
+  short_description: "Public speech distillation of Trump rhetoric"
+  default_prompt: "Use $donald-trump to analyze or structure public-address rhetoric using this distilled speaking pattern."
