@@ -1,0 +1,4 @@
+interface:
+  display_name: "Anyone"
+  short_description: "Distill any person into a reusable skill"
+  default_prompt: "Use $anyone to distill a person into a reusable Codex skill."
